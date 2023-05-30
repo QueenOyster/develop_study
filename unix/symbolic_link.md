@@ -1,4 +1,4 @@
-## Lack of understanding
+## Todo: Lack of understanding
 By creating a symbolic link from dotenv.development.local to .env,
 you can access the content of dotenv.development.local through the .env file.
 This can be useful, for example,
